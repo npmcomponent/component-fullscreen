@@ -1,20 +1,10 @@
 {
-  "name": "fullscreen-component",
+  "name": "component-fullscreen",
   "description": "Fullscreen api",
   "version": "1.0.0",
   "keywords": [],
   "dependencies": {
-    "emitter-component": "*"
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
   },
-  "development": {},
-  "license": "MIT",
-  "component": {
-    "scripts": {
-      "fullscreen/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/fullscreen.git"
-  }
+  "license": "MIT"
 }
